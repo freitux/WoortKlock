@@ -1,2 +1,2 @@
 # WoortKlock
-mine niege WoortKlock
+Dat is min nige Woort Klock.
