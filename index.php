@@ -54,7 +54,7 @@
                 ?>
             </div>
             <div id="footer">
-                ...so nu hast ja bannig veel herrumsnökern. Nu is Tied för et Tachwark.<br>
+                ...so nu hast ja bannig veel herrumsnökert. Nu is Tied för et Tachwark.<br>
                 Du Tüffeltuter
             </div>     
         </div>  
